@@ -27,8 +27,8 @@ A **Streamlit** app that powers **Retrieval-Augmented Generation (RAG)** using *
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/NishitPatel25/agentic-rag-gemini.git
-cd agentic-rag-gemini
+git clone https://github.com/NishitPatel25/Agentic_RAG.git
+cd Agentic_RAG
 
 # Set up virtual environment (Windows)
 python -m venv venv
