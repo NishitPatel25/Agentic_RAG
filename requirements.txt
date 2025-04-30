@@ -1,0 +1,10 @@
+streamlit
+langchain
+agno
+hnswlib
+langchain_community
+pyPDF
+beautifulsoup4
+chromadb
+exa_py
+google-genai
